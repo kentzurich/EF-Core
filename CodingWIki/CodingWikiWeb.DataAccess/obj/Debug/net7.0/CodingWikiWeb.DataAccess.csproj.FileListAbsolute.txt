@@ -1,0 +1,17 @@
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.DataAccess\bin\Debug\net7.0\CodingWikiWeb.DataAccess.deps.json
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.DataAccess\bin\Debug\net7.0\CodingWikiWeb.DataAccess.dll
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.DataAccess\bin\Debug\net7.0\CodingWikiWeb.DataAccess.pdb
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.DataAccess\obj\Debug\net7.0\CodingWikiWeb.DataAccess.csproj.AssemblyReference.cache
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.DataAccess\obj\Debug\net7.0\CodingWikiWeb.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.DataAccess\obj\Debug\net7.0\CodingWikiWeb.DataAccess.AssemblyInfoInputs.cache
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.DataAccess\obj\Debug\net7.0\CodingWikiWeb.DataAccess.AssemblyInfo.cs
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.DataAccess\obj\Debug\net7.0\CodingWikiWeb.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.DataAccess\obj\Debug\net7.0\CodingWikiWeb.DataAccess.dll
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.DataAccess\obj\Debug\net7.0\refint\CodingWikiWeb.DataAccess.dll
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.DataAccess\obj\Debug\net7.0\CodingWikiWeb.DataAccess.pdb
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.DataAccess\obj\Debug\net7.0\ref\CodingWikiWeb.DataAccess.dll
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.DataAccess\bin\Debug\net7.0\CodingWikiWeb.Model.dll
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.DataAccess\bin\Debug\net7.0\CodingWikiWeb.Model.pdb
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.DataAccess\obj\Debug\net7.0\CodingWikiWeb.DataAccess.csproj.CopyComplete
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.DataAccess\bin\Debug\net7.0\CodingWikiWeb.DataAccess.runtimeconfig.json
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.DataAccess\obj\Debug\net7.0\CodingWikiWeb.DataAccess.genruntimeconfig.cache

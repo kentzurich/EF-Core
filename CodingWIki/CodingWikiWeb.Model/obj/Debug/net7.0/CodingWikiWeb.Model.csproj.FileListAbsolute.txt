@@ -1,0 +1,12 @@
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.Model\bin\Debug\net7.0\CodingWikiWeb.Model.deps.json
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.Model\bin\Debug\net7.0\CodingWikiWeb.Model.dll
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.Model\bin\Debug\net7.0\CodingWikiWeb.Model.pdb
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.Model\obj\Debug\net7.0\CodingWikiWeb.Model.csproj.AssemblyReference.cache
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.Model\obj\Debug\net7.0\CodingWikiWeb.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.Model\obj\Debug\net7.0\CodingWikiWeb.Model.AssemblyInfoInputs.cache
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.Model\obj\Debug\net7.0\CodingWikiWeb.Model.AssemblyInfo.cs
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.Model\obj\Debug\net7.0\CodingWikiWeb.Model.csproj.CoreCompileInputs.cache
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.Model\obj\Debug\net7.0\CodingWikiWeb.Model.dll
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.Model\obj\Debug\net7.0\refint\CodingWikiWeb.Model.dll
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.Model\obj\Debug\net7.0\CodingWikiWeb.Model.pdb
+C:\Users\kentz\Documents\GitHub\EF-Core\CodingWIki\CodingWikiWeb.Model\obj\Debug\net7.0\ref\CodingWikiWeb.Model.dll
